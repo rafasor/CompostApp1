@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>436556068608-86f2agduiopjf9mdsu7frhuk25qu4cjv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.436556068608-86f2agduiopjf9mdsu7frhuk25qu4cjv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>436556068608-7v0k1lkttj6v4s80a8taed92dvkefpsi.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyACy-r_PvTKlLCP3crqHt_XEFe1FvW1X8E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>436556068608</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.compostapp</string>
+	<key>PROJECT_ID</key>
+	<string>compostapp-f08a6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>compostapp-f08a6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:436556068608:ios:cdb654f2f1ac0c830a65e5</string>
+</dict>
+</plist>
